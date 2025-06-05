@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Loan Sharks",
+    "image": "1.png",
+    "genre": "comedy",
+    "rating": "8.3"
+  },
+  {
+    "id": 2,
+    "title": "The Wizard",
+    "image": "2.png",
+    "genre": "thriller",
+    "rating": "7.7"
+  },
+  {
+    "id": 3,
+    "title": "Joburg City Stories",
+    "image": "3.png",
+    "genre": "action",
+    "rating": "6.3"
+  },
+  {
+    "id": 4,
+    "title": "Snoopy Dogg The Rapper",
+    "image": "4.png",
+    "genre": "documentary",
+    "rating": "9.3"
+  },
+  {
+    "id": 5,
+    "title": "Mexican Vatos",
+    "image": "5.png",
+    "genre": "crime investigation",
+    "rating": "6.9"
+  },
+  {
+    "id": 6,
+    "title": "Friday After All the other Fridays",
+    "image": "6.png",
+    "genre": "comedy",
+    "rating": "8.4"
+  },
+  {
+    "id": 7,
+    "title": "Mexico City Stories The Movie",
+    "image": "7.png",
+    "genre": "action",
+    "rating": "9.8"
+  },
+  {
+    "id": 8,
+    "title": "The Mystery Girl",
+    "image": "8.png",
+    "genre": "thriller",
+    "rating": "7.2"
+  },
+  {
+    "id": 9,
+    "title": "The House on the Hill",
+    "image": "9.png",
+    "genre": "horror",
+    "rating": "1.7"
+  },
+  {
+    "id": 10,
+    "title": "Robot Invasion",
+    "image": "10.png",
+    "genre": "action",
+    "rating": "7.5"
+  },
+  {
+    "id": 11,
+    "title": "The Bravest Warrior",
+    "image": "11.png",
+    "genre": "action",
+    "rating": "8.5"
+  },
+  {
+    "id": 12,
+    "title": "The Portal",
+    "image": "12.png",
+    "genre": "documentary",
+    "rating": "7.5"
+  },
+  {
+    "id": 13,
+    "title": "Jack The Pumpkin",
+    "image": "13.png",
+    "genre": "thriller",
+    "rating": "8.4"
+  },
+  {
+    "id": 14,
+    "title": "The Mystical Forest",
+    "image": "14.png",
+    "genre": "fantasy",
+    "rating": "6.5"
+  },
+  {
+    "id": 15,
+    "title": "The Illusion of Time",
+    "image": "15.png",
+    "genre": "documentary",
+    "rating": "9.8"
+  },
+  {
+    "id": 16,
+    "title": "The Lost Ship",
+    "image": "16.png",
+    "genre": "mystery",
+    "rating": "9.1"
+  },
+  {
+    "id": 17,
+    "title": "The Pirates Treasure",
+    "image": "17.jpg",
+    "genre": "adventure",
+    "rating": "9.0"
+  },
+  {
+    "id": 18,
+    "title": "Geronimo",
+    "image": "18.png",
+    "genre": "documentary",
+    "rating": "9.0"
+  },
+  {
+    "id": 19,
+    "title": "The Soldier The Dog and The Sergeant",
+    "image": "19.png",
+    "genre": "action",
+    "rating": "9.7"
+  },
+  {
+    "id": 20,
+    "title": "Secrets of The Wolf and The Moon",
+    "image": "20.png",
+    "genre": "fantasy",
+    "rating": "7.9"
+  }
+]
